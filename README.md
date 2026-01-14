@@ -1,4 +1,4 @@
-# [Salam/Frasa Pembuka]! I'm [Nama Kamu] 🙌
+# Halou! I'm Triadi 🙌
 
 [Tulis 1-2 kalimat tentang apa yang sedang kamu kerjakan saat ini atau "value proposition" unikmu].
 
