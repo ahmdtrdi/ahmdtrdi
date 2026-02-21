@@ -43,5 +43,5 @@ Quantative, AI/ML, and Blockchain is all i need
 
 ---
 <p align="center">
-  <i>"It won't happen overnight. But i you quit, it won't happen at all"</i>
+  <i>"It won't happen overnight. But if you quit, it won't happen at all"</i>
 </p>
