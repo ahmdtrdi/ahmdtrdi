@@ -1,6 +1,6 @@
-# Halou! I'm Triadi 🙌
+# Halo! I'm Triadi 🙌
 
-[Tulis 1-2 kalimat tentang apa yang sedang kamu kerjakan saat ini atau "value proposition" unikmu].
+Quantative, AI/ML, and Blockchain is all i need
 
 ---
 
@@ -43,5 +43,5 @@
 
 ---
 <p align="center">
-  <i>"[Quote favorit atau tagline pribadimu]"</i>
+  <i>"It won't happen overnight. But i you quit, it won't happen at all"</i>
 </p>
