@@ -14,7 +14,7 @@ Quantative, AI/ML, and Blockchain is all i need
 - **PIMNAS Nasional ↗**, Bronze Medal for "Neurokit", an app that helps students focus and study (2025)
 
 ### 🎓 Education
-- **Universitas Sam Ratulangi Manado** (GPA 3.92/4.00) - Informatics Engineering (2022 - Present)
+- **Universitas Sam Ratulangi Manado** (GPA 3.92/4.00) - Informatics Engineering (2022 - 2026)
 - **Google Data Analytics Certificate ↗** (Coursera) - basics of data analytics
 - **CompTIA Data+ ↗**, Metrodata Academy (2024)
 
